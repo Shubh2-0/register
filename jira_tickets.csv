@@ -1,0 +1,6 @@
+Issue Key,Summary,Status,Priority,Epic Link
+ENT-1,Design system database schema and migrations,Done,High,ENT-EPIC-1
+ENT-2,Implement backend layer controllers and services,Done,Medium,ENT-EPIC-2
+ENT-3,Setup secure JWT authentication middleware,Done,High,ENT-EPIC-3
+ENT-4,Configure Docker build images and Compose files,Done,High,ENT-EPIC-1
+ENT-5,Add unit test suite with high coverage assert statements,Done,Medium,ENT-EPIC-4
